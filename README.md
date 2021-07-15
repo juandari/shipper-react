@@ -1,6 +1,6 @@
 # Shipper Driver Management App
 
-Deployed URL: ``
+Deployed URL: `https://shipper-driver-management-by-ari.netlify.app/`
 ## Available Scripts
 
 In the project directory, you can run:
